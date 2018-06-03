@@ -18,7 +18,7 @@ npm install
 PORT=8080 npm start
 ```
 
-Endpoint
+Endpoints
 --------------
 
 1. GET - http://localhost:8080/api/createWallet
