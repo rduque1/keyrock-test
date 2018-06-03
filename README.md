@@ -24,7 +24,8 @@ Endpoints
 1. GET - http://localhost:8080/api/createWallet
 2. GET - http://localhost:8080/api/getBalance/<eth_address>
 3. POST - http://localhost:8080/api/transaction
-  body => ```
+  body => 
+  ```
     {
       "amount": <eth_amount>,
       "privateKey": <account private key>,
