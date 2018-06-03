@@ -1,0 +1,8 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"web3": {
+		"httpProvider": "https://rinkeby.infura.io/"
+	}
+}
